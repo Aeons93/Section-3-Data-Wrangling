@@ -141,5 +141,4 @@ for (i in 1:length(refine$product_category))
   }
 }
 
-write.csv(refine, file = "refine_clean.csv")
 
